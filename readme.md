@@ -24,3 +24,7 @@ sudo chmod +x install.sh
 ```sh
 ./install.sh
 ```
+#### 5º - Run
+```sh
+./AutoChangeDateLinux.sh
+```
